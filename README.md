@@ -68,7 +68,7 @@
 
 ## 演示视频
 <div align="center">
-  <img src="doc/images/p1.gif" alt="系统演示" width="45%">
+  <img src="doc/images/p5.gif" alt="系统演示" width="45%">
 </div>
 <div align="center">
   <img src="doc/images/p2.gif" alt="系统数据库演示" width="45%">
