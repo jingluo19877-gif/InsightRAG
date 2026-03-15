@@ -20,12 +20,12 @@
 
 
 ## 核心架构
-![问答系统模型基本框架](doc/images/img1.png)问答系统模型基本框架
-![LLM 构建索引键值对示例](doc/images/img2.png)LLM 构建索引键值对示例
-![初始图谱](doc/images/img3.png)初始图谱
-![向量数据库与图谱关联](doc/images/img4.png)向量数据库与图谱关联
-![混合检索流程](doc/images/img5.png)混合检索流程
-![基于梯度的文本块选择算法](doc/images/img6.png)基于梯度的文本块选择算法
+![问答系统模型基本框架](doc/images/img1.png) 问答系统模型基本框架
+![LLM 构建索引键值对示例](doc/images/img2.png) LLM 构建索引键值对示例
+![初始图谱](doc/images/img3.png) 初始图谱
+![向量数据库与图谱关联](doc/images/img4.png) 向量数据库与图谱关联
+![混合检索流程](doc/images/img5.png) 混合检索流程
+![基于梯度的文本块选择算法](doc/images/img6.png) 基于梯度的文本块选择算法
 
 关键模块及其作用：
 - 索引模块：
